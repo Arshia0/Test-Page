@@ -1,0 +1,121 @@
+
+body{
+    /* background-image: url(../pictures/rm218-sasi-04.jpg);
+    background-size: cover;
+    background-attachment: fixed; */
+    background-image: linear-gradient( 225deg , rgb(176, 0, 189)  , rgb(1, 1, 135)   );
+    
+    /* width: 100%;
+    height: 100%;
+    background-color: rebeccapurple;
+    animation-name: aa;
+    animation-duration: 4s;
+    
+    @keyframes aa {
+        from {background-color: blue ;}
+        to {background-color: red ;}
+        
+    } */
+}
+body h3 {
+
+    font-size: xx-large;
+    background-image: url(https://img2.wallspic.com/originals/6/8/1/7/5/157186-galaxy-water-atmosphere-azure-purple-3840x2160.png);
+    background-attachment:fixed;
+    margin-left: 36%;margin-top: 2%;margin-right: 38%;
+    border: 3px solid aliceblue; color: aliceblue;
+    padding: 5px 10px;
+    filter: drop-shadow(10px 10px 3px rgba(52, 46, 46, 0.435));
+}
+h3:hover{
+    background: rgba(128, 0, 128, 0.605);
+    filter:none;
+}
+
+body h6{
+    font-size: larger;
+    background-image: url(https://img2.wallspic.com/originals/6/8/1/7/5/157186-galaxy-water-atmosphere-azure-purple-3840x2160.png);
+    background-attachment:fixed;
+    color: aliceblue;
+    margin-left: 41%;margin-right: 43%;margin-top: 1%;
+    border: 2px solid  aliceblue;
+    filter: drop-shadow(10px 10px 3px rgba(52, 46, 46, 0.435));
+    
+
+}
+h6:hover{
+    background: rgba(128, 0, 128, 0.605);
+    filter:none;
+
+    
+}
+
+body>form{
+    /* background: rgb(101, 55, 128); */
+    /* background-image: url(D:/RogStrix/Coding/Html&Css/1920.jpg); */
+    /* background-image: url(../1261639.jpg);
+    background-size: 5cm 5cm ; */
+    /* filter: blur(3px); */
+    /* background-color: rgba(0,0,0, 0.4); */
+    /* background-image: url(../pictures/1.png);
+    background-repeat: no-repeat;
+    background-position: bottom 10% left 10%;
+    background-attachment:fixed;
+    background-size: cover;
+    background-position: 30%  30%; */
+    background-image: linear-gradient(90deg,rgb(176, 0, 189),rgb(1, 1, 135));
+    
+    border: 3px solid black;
+    margin-left: 30%;margin-top: 2%;
+    margin-right: 30%;
+    
+}
+
+.login_titel{
+
+    color: aliceblue;
+    margin-left: 20px;margin-top: 15px;
+    filter: drop-shadow(10px 10px 2px rgba(52, 46, 46, 0.435));
+
+}
+/* ---------------------------------------------- */
+#submit_login{
+    
+    background: green;
+    color: aliceblue;
+    margin-left: 20px;margin-top: 10px;
+    margin-top: 5%;
+    filter: drop-shadow(10px 10px 3px rgba(52, 46, 46, 0.435));
+    
+}
+
+submit_login:hover{
+    filter: none;
+}
+
+
+/* ------------------------------------- */
+#reset_login{
+    background: red;
+    color: aliceblue;
+    margin-left: 74%;
+    filter: drop-shadow(10px 10px 3px rgba(23, 21, 21, 0.585));
+    
+}
+
+reset_login:hover{
+    filter: none;
+}
+
+/* --------------------------------------------- */
+
+
+.login_inputs{
+
+    margin-left: 20px;margin-top: 10px;
+    filter: drop-shadow(10px 10px 3px rgba(52, 46, 46, 0.435));
+}
+.login_inputs:hover{
+    filter: none;
+}
+/* -------------------------------------------------- */
